@@ -1,0 +1,55 @@
+/* === HEADER === */
+
+*{
+    margin: 0
+}
+
+body{
+    background-color: white;
+}
+
+.page-home {
+    max-width: 900px;
+    margin: 50px auto;
+}
+
+.page-header{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+
+.page-links {
+    margin: 0px 122.4px;
+}
+
+.page-links a{
+    margin: 0px 30px;
+    text-decoration: none;
+    color: #111111;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+/* === FOOTER === */
+
+footer{
+    background-color:#EEEEEE;
+    padding: 3px;
+    height: 62px;
+    text-align: center;
+    margin: 0px;
+}
+
+footer h3 {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    color: #999999;
+    text-align: center;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
